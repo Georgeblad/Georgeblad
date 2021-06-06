@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Georgeblad
-- 👀 I’m interested in web development, mobile applications and marketing
+- 👀 I’m interested in web development, mobile & web applications, and marketing
 - 🌱 I’m currently learning React Native
 - 📫 You can reach me at georgeblad.code@gmail.com
