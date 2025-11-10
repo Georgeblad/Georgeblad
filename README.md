@@ -33,5 +33,5 @@ I build **automation-heavy web apps, integrations, and internal tools** that rem
 ```ts
 const jorge: Developer = {
   focus: ["automation-heavy systems", "clean integrations", "developer experience"],
-  loves: ["TypeScript", "React/Next.js", "NetSuite scripting", "making ops people happier"],
+  loves: ["Python", "TypeScript", "React/Next.js", "NetSuite scripting", "making ops people happier"],
 };
