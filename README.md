@@ -1,22 +1,37 @@
-```markdown
-## 👋 Hi—I’m Jorge  
+## Hi — I’m Jorge 👋  
 
-Senior **NetSuite architect**, **SuiteScript developer**, and **full-stack engineer**.  
-I build rock-solid eCommerce + ERP solutions end-to-end.
+Independent **full-stack & automation engineer** and **NetSuite developer**.  
+I build **automation-heavy web apps, integrations, and internal tools** that remove boring manual work.
 
-### What I deliver
-- **Custom NetSuite automations & integrations** | SuiteScript 2.x · REST · GraphQL  
-- **Data-driven web apps** | TypeScript · React · Node · Python  · PHP
-- **Trusted client partnerships & proactive collaboration**
+---
 
-### How I work
-- Translate business workflows into maintainable, test-covered code  
-- Lead projects from discovery through production hand-off  
-- Document & upskill in-house teams so they stay self-sufficient
+### What I do
 
-### On this GitHub
-Public, bite-sized utilities for NetSuite and JavaScript tooling.  
-(Private repos contain proprietary client projects — more open-source projects dropping soon.)
+- **Full-stack web development**  
+  TypeScript · React/Next.js · Node.js · REST/GraphQL APIs · PostgreSQL/Supabase
 
-Let’s connect → [LinkedIn](https://www.linkedin.com/in/jorge-mu%C3%B1oz-431513229/) • ✉️ georgeblad.code@gmail.com
-```
+- **Business automation & scripting**  
+  Backend services, CLIs, browser extensions, and scripts that glue systems together and keep data flowing.
+
+- **NetSuite customization & integrations**  
+  SuiteScript 1.0/2.x · SuiteQL · SDF · RESTlets · EDI flows via integration platforms.
+
+- **Technical ownership for clients**  
+  From discovery and architecture → to implementation, documentation, and hand-off to in-house teams.
+
+---
+
+### Tech I like working with
+
+- **Languages:** TypeScript, JavaScript, SQL, Python, SuiteScript, a bit of PHP
+- **Frontend:** React, Next.js, Tailwind CSS, browser extensions
+- **Backend:** Node.js, Express, REST/GraphQL APIs, serverless functions
+- **Data & infra:** PostgreSQL, Supabase, AWS (Lambda/S3/etc.), CI/CD with GitHub Actions
+- **ERP & integrations:** NetSuite (custom records, workflows, SuiteScript), EDI (810/850/856/945/…)
+- **Other interests:** AI-assisted development (OpenAI, prompt-driven tools), developer tooling, automation of repetitive NetSuite tasks
+
+```ts
+const jorge: Developer = {
+  focus: ["automation-heavy systems", "clean integrations", "developer experience"],
+  loves: ["TypeScript", "React/Next.js", "NetSuite scripting", "making ops people happier"],
+};
