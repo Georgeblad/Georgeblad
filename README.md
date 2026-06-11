@@ -10,7 +10,7 @@ I turn messy business workflows into reliable software: web apps, Python automat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Mu%C3%B1oz-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jorge-munoz-431513229)
 [![Email](https://img.shields.io/badge/Email-jorge%40jamunoz.com-6f42c1?style=for-the-badge&logo=gmail)](mailto:jorge@jamunoz.com)
 
-Remote · Chile · Working with US, UK, EU, and LATAM clients · Spanish / English
+Remote · Chile · Working with US, EU, and LATAM clients · Spanish / English
 
 </div>
 
