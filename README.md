@@ -1,42 +1,61 @@
+<div align="center">
+
 # Jorge Muñoz
 
-**Full-stack software engineer focused on automation-heavy systems, integrations, and internal tools.** I work across web apps, Python scripts, browser extensions, custom tooling, applied AI, and NetSuite / EDI systems for real business operations.
+### Full-stack engineer building automation-heavy systems, integrations, and internal tools.
 
-I like building the parts of software that make work less manual: clean interfaces around messy processes, reliable data flows between systems, tools that save teams hours, and code that someone else can actually own after handoff.
+I turn messy business workflows into reliable software: web apps, Python automation, browser extensions, ERP/NetSuite tooling, EDI flows, and applied AI systems.
 
-Most of my professional work lives in private client repositories, so this profile is intentionally light on public production code. The public repos here are generic patterns, demos, tools, and references I can share without exposing client IP. The contribution graph reflects how often I work, not the details of what I build.
+[![Website](https://img.shields.io/badge/Website-jamunoz.com-2ea44f?style=for-the-badge)](https://jamunoz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Mu%C3%B1oz-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jorge-munoz-431513229)
+[![Email](https://img.shields.io/badge/Email-jamunoz.root%40gmail.com-6f42c1?style=for-the-badge&logo=gmail)](mailto:jamunoz.root@gmail.com)
 
-### What I build
+Remote · Chile · Working with US, UK, EU, and LATAM clients · Spanish / English
 
-- **Web applications:** TypeScript, React / Next.js, Node, Tailwind, PostgreSQL / Supabase, APIs, dashboards, admin tools, multi-tenant apps.
-- **Automation and tooling:** Python scripts, CLIs, browser extensions, workflow automation, data cleanup, reporting, and small utilities that remove repetitive work.
-- **Integrations:** REST APIs, webhooks, file-based flows, sFTP / AS2, idempotent upserts, retries, structured logs, audit trails, and failure handling.
-- **NetSuite / ERP:** SuiteScript 2.1 and 2.x, SuiteScript 1.0 legacy, SuiteQL, RESTlets, Suitelets, Saved Searches, workflows, custom records, advanced PDFs, and multi-subsidiary operations.
-- **EDI:** X12 and EDIFACT work, including common retail, inventory, fulfillment, and finance documents. Trained in Cleo Integration Cloud and hands-on with real production-style EDI flows.
-- **Applied AI:** LLM tool-calling, RAG, data-quarantine patterns, prompt/workflow automation, and safe AI access to operational systems.
-- **Personal tools:** Mac utilities, local automations, AI assistants, and experiments that help me work faster and understand systems more deeply.
+</div>
 
-### Selected work
+---
 
-- 15+ years building software independently, from websites and custom tooling to full-stack products and business-critical automations.
-- 5+ years hands-on with NetSuite and ERP integrations.
-- 80+ production workflows, integrations, and automations shipped, including 50+ SuiteScript/code customizations.
-- Long-term retainer with a UK direct-to-consumer brand, building SuiteScript customizations, EDI flows, internal automation, and AI-assisted support tooling.
-- Multi-tenant inventory SaaS for a mining-sector client, built with Next.js and Supabase, now used by multiple customers.
-- Browser extensions and custom tools for improving NetSuite workflows and speeding up repetitive operational tasks.
-- Internal AI support assistant using LLM tool-calling over support and ERP data, with a data-quarantine layer.
-- Legacy rescue work: taking over undocumented systems, reverse-engineering them, stabilizing them, and leaving clients with usable documentation.
+## What I do best
 
-### How I work
+| Area | What that usually means |
+| --- | --- |
+| **Full-stack apps** | Next.js, React, TypeScript, Node, APIs, dashboards, admin tools, Supabase/PostgreSQL |
+| **Automation** | Python scripts, CLIs, browser extensions, reports, data cleanup, operational workflows |
+| **Integrations** | REST APIs, webhooks, sFTP/AS2, file-based flows, retries, logs, audit trails |
+| **ERP / NetSuite** | SuiteScript 2.x, SuiteScript 1.0 legacy, SuiteQL, RESTlets, Suitelets, Saved Searches, Advanced PDF |
+| **EDI** | X12, EDIFACT, retail and fulfillment documents, Cleo Integration Cloud training |
+| **Applied AI** | Tool-calling, RAG, workflow automation, data quarantine, internal support assistants |
 
-I care about practical software: clear data contracts, boring reliability, readable code, and ownership transfer. I would rather ship a small thing that holds up than a clever thing nobody can maintain.
+## Selected proof
 
+- **15+ years** building software independently, from websites and personal tools to business-critical systems.
+- **5+ years** hands-on with NetSuite, ERP integrations, EDI, and operations-heavy automation.
+- **80+ shipped workflows, integrations, scripts, and custom tools** across private client work.
+- Built a **multi-tenant inventory SaaS** for a mining-sector client using Next.js and Supabase.
+- Built browser extensions and custom tooling to speed up repetitive NetSuite and operations tasks.
+- Built internal AI support tooling with LLM tool-calling over operational data, with a data-quarantine layer.
+- Regularly take over undocumented systems, stabilize them, and leave maintainable code plus handoff notes.
+
+> Most of my professional work lives in private client repositories. The public projects here are sanitized patterns, tools, and reference implementations I can share without exposing client IP.
+
+## Tech I reach for
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,supabase,tailwind,html,css,git,github,vscode" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, Tailwind, HTML, CSS, Git, GitHub, VS Code" />
+</p>
+
+## How I work
+
+I care about practical software: clear data contracts, boring reliability, readable code, and ownership transfer.
 No black boxes. No lock-in. No pretending a script is done until failure modes, logs, and handoff are handled.
 
-### Links
+## Good public repos to expect here
+I use this profile to share reusable, client-safe versions of patterns I use in real projects:
 
-- Site: https://jamunoz.com
-- LinkedIn: https://www.linkedin.com/in/jorge-munoz-431513229
-- Email: jorge@jamunoz.com
-
-Remote, working with US, EU, and LATAM clients. Bilingual (Spanish and English).
+- NetSuite and SuiteScript utilities
+- EDI parsing and validation references
+- Internal-tool templates
+- Python automation recipes
+- Browser-extension experiments
+- Applied AI workflow demos
